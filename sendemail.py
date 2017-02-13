@@ -18,7 +18,7 @@ message_to_send = message.format(from_name, from_addr, to_name, to_addr, subject
 
 # Credentials (if needed)
 username = 'myemail@gmail.com'
-password = '{}'
+password = ''
 
 # The actual mail send
 server = smtplib.SMTP('smtp.gmail.com:587')
