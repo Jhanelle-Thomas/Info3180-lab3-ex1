@@ -6,8 +6,8 @@ from_addr = 'myemail@gmail.com'
 to_name = 'Thomas'
 to_addr = 'someperson@someemail.com'
 
-subject = 'Hello'
-msg = "What's up?  :P"
+subject = 'Whats up?  :P'
+msg = 'Hello Hello Hello!!'
 
 message = """From: {} <{}>
 To: {} <{}>
